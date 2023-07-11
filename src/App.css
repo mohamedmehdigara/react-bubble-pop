@@ -32,3 +32,23 @@
 .yellow {
   background-color: yellow;
 }
+
+.score {
+  margin-bottom: 20px;
+}
+
+.timer {
+  margin-bottom: 20px;
+}
+
+.game-over {
+  margin-top: 50px;
+}
+
+.game-over h1 {
+  color: red;
+}
+
+.game-over button {
+  margin-top: 20px;
+}
